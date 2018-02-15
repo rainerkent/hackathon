@@ -67,8 +67,6 @@
             android:layout_marginRight="25dp"
             android:background="#768187"/>
 
-
-
         <EditText
             android:id="@+id/etRegPassword"
             android:layout_width="match_parent"
