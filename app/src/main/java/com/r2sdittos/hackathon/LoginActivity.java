@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DatabaseReference;
+
 /**
  * Created by marl on 2/15/18.
  */
@@ -16,6 +19,9 @@ public class LoginActivity extends AppCompatActivity {
     private EditText email;
     private EditText pass;
     private Button btnRegister;
+
+    private FirebaseAuth mAuth;
+    private DatabaseReference databaseReference;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

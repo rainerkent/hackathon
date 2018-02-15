@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "850909479897",
+    "firebase_url": "https://hackathon-bea97.firebaseio.com",
+    "project_id": "hackathon-bea97",
+    "storage_bucket": "hackathon-bea97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850909479897:android:86009d5b50a07c35",
+        "android_client_info": {
+          "package_name": "com.r2sdittos.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850909479897-76vqpdnm426r3hvie1emk4oep5jd7ina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmnkub31mWLNePVFqTjXvWA21uBvdHCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
