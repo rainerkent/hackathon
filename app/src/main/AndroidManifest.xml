@@ -18,8 +18,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".RegisterActivity" />
+
         <activity android:name=".CreateDareActivity" />
         <activity android:name=".DareDetailsActivity"></activity>
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
-
 </manifest>
+
